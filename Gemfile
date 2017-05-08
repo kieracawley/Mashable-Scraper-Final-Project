@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+gem "sinatra"
+gem "sendgrid-ruby"
+gem "ruby_http_client"
+gem "mail"
+gem "mechanize"
+gem "nokogiri"
+gem "dotenv"
